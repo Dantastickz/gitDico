@@ -1,4 +1,5 @@
 <?php
+// Contrôleur principal de l'appilcation
 
 include("vues/v_entete.php") ;
 require_once("include/fct.inc.php");
